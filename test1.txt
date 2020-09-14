@@ -1,4 +1,7 @@
-THIS IS TEST 1
+THIS IS TEST
 
-Correct this sentence bellow 
-I am Yuichiro and I am changing this text file.
+Red
+Blue
+Orange
+Purple
+...
