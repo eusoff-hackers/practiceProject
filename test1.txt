@@ -1,7 +1,16 @@
-THIS IS TEST
+PART 1
 
 Red
 Blue
 Orange
 Purple
-...
+
+PART 2
+
+1 + 1 = 
+2 + 2 = 
+4 + 5 +
+
+PART 3
+
+
