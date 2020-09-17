@@ -1,9 +1,9 @@
 PART 1
 
-Rad
-Blee
-Orenge
-Puople
+Red
+Blue
+Orange
+Purple
 
 PART 2
 
@@ -13,4 +13,4 @@ PART 2
 
 PART 3
 
-something funny
+What do you call cheese that isn't yours? Nacho cheese
