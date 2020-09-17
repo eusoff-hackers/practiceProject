@@ -1,16 +1,16 @@
 PART 1
 
-Rad
-Blee
-Orenge
-Puople
+Red
+Blue
+Orange
+Purple
 
 PART 2
 
-1 + 1 = 
-2 + 2 = 
-4 + 5 =
+1 + 1 = 2 
+2 + 2 = 4
+4 + 5 = 9
 
 PART 3
 
-delete this sentence and write something funnny 
+I love com eng,,,
